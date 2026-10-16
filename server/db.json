@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "age": 22
+    },
+    {
+      "id": "2",
+      "name": "Meera",
+      "email": "meera@gmail.com",
+      "age": 21
+    },
+    {
+      "id": "3",
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "age": 23
+    },
+    {
+      "name": "Niya",
+      "email": "niya@gmail.com",
+      "age": "22",
+      "id": "r-WH5bErORM"
+    },
+    {
+      "name": "Sayooj",
+      "email": "say@gmail.com",
+      "age": "26",
+      "id": "Cgiikbkf0e8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
